@@ -10,7 +10,5 @@ public class Usuario {
 
        static String nome;
        static String email;
-       static String senha;
+       static String senha;   
 }
-
-       
